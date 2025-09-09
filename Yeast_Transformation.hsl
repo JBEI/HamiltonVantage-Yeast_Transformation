@@ -156,11 +156,11 @@ namespace _Method { method main(  ) void {
 // {{ 2 "AutoInitBlock" ""
 ::RegisterAbortHandler( "OnAbort");
 // }} ""
-// {{ 1 1 0 "aac9d10c_6020_41a4_90f48e9fc9b7c910" "{F07B0071-8EFC-11d4-A3BA-002035848439}"
-
+// {{ 1 1 0 "1bc4b924_5e1d_4045_bb1b65506a11b21f" "{F07B0071-8EFC-11d4-A3BA-002035848439}"
+MECC::TraceComment(Translate("NOTE: running this method may require additional software libraries and/or labware definitions. Those additional software libraries and/or labware definitions are subject to the terms and conditions of each of their own licenses."));
 // }} ""
-// {{ 2 1 0 "56a3009a_d568_41c8_955c2d0a648557d4" "{F07B0071-8EFC-11d4-A3BA-002035848439}"
-
+// {{ 2 1 0 "7a95e5ed_16a4_448a_b0fc1cc644904228" "{F07B0071-8EFC-11d4-A3BA-002035848439}"
+MECC::TraceComment(Translate("V4:\n\nFixing issues MAstolfi saw 10/24/24\nTBD: Add in breathable sealign step (is it worth it to change the seal rolls?)\n"));
 // }} ""
 // {{ 3 1 0 "88cc46a9_be45_48bd_bb36508a316746d1" "ML_STAR:{1C0C0CB0-7C87-11D3-AD83-0004ACB1DCB2}"
 {
@@ -2175,4 +2175,4 @@ APPSLIB_V1_7::DevRemoveLabware(ML_STAR, Translate("QTray_2"));
 // {{{ 5 "main" "End"
 } }
 // }} ""
-// $$author=RoboAdmin$$valid=0$$time=2025-09-09 16:22$$checksum=62ffb748$$length=088$$
+// $$author=RoboAdmin$$valid=0$$time=2025-09-09 16:33$$checksum=696d4417$$length=088$$
