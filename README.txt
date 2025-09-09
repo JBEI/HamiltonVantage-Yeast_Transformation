@@ -12,3 +12,4 @@ its behalf a paid-up, nonexclusive, irrevocable, worldwide license in the
 Software to reproduce, distribute copies to the public, prepare derivative 
 works, and perform publicly and display publicly, and to permit others to do so.
 
+NOTE: running this method may require additional software libraries and/or labware definitions. Those additional software libraries and/or labware definitions are subject to the terms and conditions of each of their own licenses.
